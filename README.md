@@ -5,7 +5,6 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/prior-knowledge-integration-via-llm-encoding/highlight-detection-on-qvhighlights)](https://paperswithcode.com/sota/highlight-detection-on-qvhighlights?p=prior-knowledge-integration-via-llm-encoding)
 
 
-
 [Yiyang Jiang](https://yyjiang.com/), [Wengyu Zhang](https://wengyuzhang.com), [Xulu Zhang](https://scholar.google.com/citations?user=4UqJoGMAAAAJ), [Xiao-Yong Wei](https://www4.comp.polyu.edu.hk/~x1wei/), [Chang Wen Chen](https://web.comp.polyu.edu.hk/chencw/), and [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/).
 </div>
 
